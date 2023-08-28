@@ -1,4 +1,4 @@
-# Web3 Security Tools:
+# Web3 Security Tools
 
 Web3 security tools are critical components of a secure blockchain infrastructure. They allow developers to secure the applications and networks running on the blockchain, as well as provide a way to detect and investigate any potential malicious activity.
 
