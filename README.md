@@ -9,11 +9,10 @@ This repository contains a list of the most popular and widely used tools in web
 
 **If you find any tools missing, you can create a pull request and be a contribute the project.**
 
-![](data/Web3_Security%20Tools.png)
+![](data/Web3_Security_Tools_(Safful).png)
 
-Pdf Link: [Web3 Security Tools.pdf](data/Web3_Security%20Tools.pdf)
 
-Xmind Link: https://xmind.works/share/zfdeD07U
+Xmind Link: https://xmind.works/share/tONmbEOE
 
 ---
 
